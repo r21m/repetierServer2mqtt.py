@@ -1,6 +1,5 @@
 import configparser
 import json
-#import queue,threading
 import paho.mqtt.client as mqtt
 import time
 import urllib.request
